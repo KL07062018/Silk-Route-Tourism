@@ -26,7 +26,7 @@
 
 				<!-- Header -->
 					<header id="header">
-						<a href="index.jsp" class="logo">Massively</a>
+						<a href="index.jsp" class="logo">Home</a>
 					</header>
 
 				<%@ include file="nav.jsp"  %>
@@ -37,14 +37,11 @@
 						<!-- Featured Post -->
 							<article class="post featured">
 								<header class="major">
-									<span class="date">April 25, 2017</span>
-									<h2><a href="#">And this is a<br />
-									massive headline</a></h2>
-									<p>Aenean ornare velit lacus varius enim ullamcorper proin aliquam<br />
-									facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor<br />
-									amet nullam sed etiam veroeros.</p>
+									<h2><a href="#">3 days 2 night<br/>in chengdu</a></h2>
+									<p>Chengdu serves as the capital of China's Sichuan province. It is one of the three most populous cities in Western China. 
+									   The surrounding Chengdu Plain is also known as the "Country of Heaven" and the "Land of Abundance".</p>
 								</header>
-								<a href="#" class="image main"><img src="images/pic01.jpg" alt="" /></a>
+								<a href="#" class="image main"><img src="images/jiuzhaigou-summer-9.jpg" alt="" /></a>
 								<ul class="actions special">
 									<li><a href="#" class="button large">Full Story</a></li>
 								</ul>
